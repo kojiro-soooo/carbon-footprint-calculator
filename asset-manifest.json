@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/carbon-footprint-calculator/static/css/main.1285a21b.css",
+    "main.js": "/carbon-footprint-calculator/static/js/main.bb6e6282.js",
+    "static/media/carbon-footprint.png": "/carbon-footprint-calculator/static/media/carbon-footprint.d144a7c0e84d98ad18fe.png",
+    "index.html": "/carbon-footprint-calculator/index.html",
+    "main.1285a21b.css.map": "/carbon-footprint-calculator/static/css/main.1285a21b.css.map",
+    "main.bb6e6282.js.map": "/carbon-footprint-calculator/static/js/main.bb6e6282.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1285a21b.css",
+    "static/js/main.bb6e6282.js"
+  ]
+}
