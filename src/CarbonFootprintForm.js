@@ -57,7 +57,7 @@ const CarbonFootprintForm = ({ onCalculate }) => {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        Authorization: "Bearer ETXRW9GTG64M83JNWF6QY7YKKTRF",
+        Authorization: "Bearer 4QJGS7X0W54YW1NFM1WGFCGJ8K8M",
       },
       body: JSON.stringify({
         emission_factor: {
